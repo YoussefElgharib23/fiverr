@@ -236,6 +236,8 @@ header .container svg:first-child g:first-child {
   }
 
   header .form_container_header .btn__search__control {
+    padding-top: 0;
+    padding-bottom: 0;
     position: absolute;
     width: fit-content;
     margin: 0;
